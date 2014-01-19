@@ -1,0 +1,6 @@
+name: proj4dart
+description: A sample web application
+dependencies:
+  browser: any
+  js_wrapping: any
+  unittest: any
