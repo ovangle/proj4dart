@@ -1,6 +1,6 @@
-# Proj4Dart #
+# Proj4dart #
 
-Dart bindings for the `proj4JS` library.
+Dart bindings for the `proj4js` library.
 
 ## Usage ##
 
