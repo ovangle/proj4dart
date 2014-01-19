@@ -14,5 +14,5 @@ eg.
 The module exports a single function `proj4`. Calling the function, with
 the source and destination projection definitions (either the proj4 definition
 or any of the named projections included in the proj4js library) will return
-a `CoordinateTransform` function, which accepts and returns a `math.Point`
-object.
+a `CoordinateTransform` function, which when passed a `Point` object from
+the `dart:math` library, will transform it between the projections.
